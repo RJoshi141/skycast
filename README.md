@@ -17,7 +17,6 @@ Welcome to **Skycast Weather App**! Stay updated with real-time weather informat
 ## ✨ Features
 
 - 🌍 **Global Weather Data:** Get current weather information for any city worldwide.
-- 📅 **3-Day Forecast:** View a detailed 3-day weather forecast.
 - 🌦️ **Weather Icons:** Visual representation of weather conditions with icons.
 - 💧 **Humidity & Wind Speed:** Detailed weather parameters.
 - 🎨 **Dynamic Backgrounds:** Background images change based on the weather conditions.
