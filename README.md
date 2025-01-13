@@ -6,13 +6,13 @@ Welcome to **Skycast Weather App**! Stay updated with real-time weather informat
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+- ![Features](#features)
+- ![Demo](#demo)
+- ![Installation](#installation)
+- ![Usage](#usage)
+- ![Deployment](#deployment)
+- ![Contributing](#contributing)
+- ![License](#license)
 
 ## ✨ Features
 
