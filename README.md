@@ -2,7 +2,7 @@
 
 Welcome to **Skycast Weather App**! Stay updated with real-time weather information for any city around the world. Skycast provides a sleek and user-friendly interface to ensure you get the latest weather conditions with ease.
 
-![Skycast Weather App](./skycast/skycast/src/assets/screenshot.png)
+![Skycast Weather App](./skycast/src/assets/screenshot.png)
 
 ## 📋 Table of Contents
 
