@@ -6,13 +6,13 @@ Welcome to **Skycast Weather App**! Stay updated with real-time weather informat
 
 ## 📋 Table of Contents
 
-- ![Features](#features)
-- ![Demo](#demo)
-- ![Installation](#installation)
-- ![Usage](#usage)
-- ![Deployment](#deployment)
-- ![Contributing](#contributing)
-- ![License](#license)
+- [Features](#-Features)
+- [Demo](#-Demo)
+- [Installation](#-Installation)
+- [Usage](#-Usage)
+- [Deployment](#-Deployment)
+- [Contributing](#-Contributing)
+- [License](#-License)
 
 ## ✨ Features
 
@@ -139,5 +139,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Thank you for checking out the Skycast Weather App! We hope you enjoy using it as much as we enjoyed building it. If you have any questions or feedback, feel free to open an issue or reach out.
 
 Happy weather watching! 🌦️
-
----
