@@ -1,6 +1,8 @@
 # 🌤️ Skycast Weather App
 
-Welcome to the **Skycast Weather App**! This application provides detailed weather information for any city around the world. With a sleek and user-friendly interface, Skycast ensures you stay updated with the latest weather conditions.
+Welcome to **Skycast Weather App**! Stay updated with real-time weather information for any city around the world. Skycast provides a sleek and user-friendly interface to ensure you get the latest weather conditions with ease.
+
+![Skycast Weather App](screenshot.png)
 
 ## 📋 Table of Contents
 
@@ -14,12 +16,12 @@ Welcome to the **Skycast Weather App**! This application provides detailed weath
 
 ## ✨ Features
 
-- **Real-time Weather Data:** Get current weather information for any city.
-- **3-Day Forecast:** View a 3-day weather forecast.
-- **Weather Icons:** Visual representation of weather conditions with icons.
-- **Humidity, Wind Speed:** Detailed weather parameters.
-- **Dynamic Backgrounds:** Background images change based on the weather conditions.
-- **Responsive Design:** Works seamlessly on both desktop and mobile devices.
+- 🌍 **Global Weather Data:** Get current weather information for any city worldwide.
+- 📅 **3-Day Forecast:** View a detailed 3-day weather forecast.
+- 🌦️ **Weather Icons:** Visual representation of weather conditions with icons.
+- 💧 **Humidity & Wind Speed:** Detailed weather parameters.
+- 🎨 **Dynamic Backgrounds:** Background images change based on the weather conditions.
+- 📱 **Responsive Design:** Works seamlessly on both desktop and mobile devices.
 
 ## 🎬 Demo
 
@@ -134,7 +136,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for checking out the Skycast Weather App! We hope you enjoy using it as much as we enjoyed building it. If you have any questions or feedback, feel free to open an issue or reach out to us.
+Thank you for checking out the Skycast Weather App! We hope you enjoy using it as much as we enjoyed building it. If you have any questions or feedback, feel free to open an issue or reach out.
 
 Happy weather watching! 🌦️
 
