@@ -133,7 +133,7 @@ We welcome contributions to the Skycast Weather App! To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
---
+---
 
 Thank you for checking out the Skycast Weather App! I hope you enjoy using it as much as we enjoyed building it. If you have any questions or feedback, feel free to open an issue or reach out.
 
