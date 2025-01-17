@@ -2,7 +2,7 @@
 
 Welcome to **Skycast Weather App**! Stay updated with real-time weather information for any city around the world. Skycast provides a sleek and user-friendly interface to ensure you get the latest weather conditions with ease.
 
-<img src="skycast/src/assets/skycast_demo.gif" alt ="Skycast Weather App" width = "650"/>
+<img src="skycast/src/assets/skycast_demo.gif" alt ="Skycast Weather App" width = "600" position = "center"/>
 
 ## 📋 Table of Contents
 
@@ -135,6 +135,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for checking out the Skycast Weather App! I hope you enjoy using it as much as we enjoyed building it. If you have any questions or feedback, feel free to open an issue or reach out.
+Thank you for checking out the Skycast Weather App! I hope you enjoy using it as much as I enjoyed building it. If you have any questions or feedback, feel free to open an issue or reach out :)
 
 Happy weather watching! 🌦️
